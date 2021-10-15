@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the Greenbush security resources page!
+
+### K12 Cybersecurity Framework 
+
+1. IDENTIFY
+
+
+2. PROTECT
+_comming soon_
+
+3. DETECT
+_comming soon_
+
+4. RESPOND
+_comming soon_
+
+5. RECOVER
+_comming soon_
 
 You can use the [editor on GitHub](https://github.com/GBT3ch/GBTech.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
