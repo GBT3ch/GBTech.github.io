@@ -1,4 +1,4 @@
-## Welcome to the Greenbush security resources page!
+##Greenbush Security Resources
 
 ### K12 Cybersecurity Framework 
 
