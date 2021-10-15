@@ -6,16 +6,16 @@
 
 
 2. PROTECT
-_coming soon_
+_**coming soon**_
 
 3. DETECT
-_coming soon_
+_**coming soon**_
 
 4. RESPOND
-_coming soon_
+_**coming soon**_
 
 5. RECOVER
-_coming soon_
+_**coming soon**_
 
 You can use the [editor on GitHub](https://github.com/GBT3ch/GBTech.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
